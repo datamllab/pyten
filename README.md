@@ -2,7 +2,7 @@
 
 DARPA NGS2 HELIOS Project 
 
-Python Package for Tensor Completion Algorithms
+## What is PyTen? 
 
 **PyTen** is a python package containing the state-of-the-art tensor decomposition and completion algorithms for “filling in the gaps”' of recovering high-order tensor-structured datasets characterized by noisy and missing information.
 
